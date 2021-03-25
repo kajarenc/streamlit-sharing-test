@@ -5,6 +5,7 @@ import plotly.graph_objects as go
 
 st.title("🥑 Avocado Analytics")
 
+print(5 / 0)
 
 @st.cache
 def load_data():
